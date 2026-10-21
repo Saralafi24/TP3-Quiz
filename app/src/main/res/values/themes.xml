@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.QuizImages" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaire</item>
+        <item name="colorPrimaryVariant">@color/primaire_fonce</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <item name="android:statusBarColor">@color/primaire_fonce</item>
+        <item name="android:windowBackground">@color/fond</item>
+    </style>
+</resources>
